@@ -1,4 +1,6 @@
 🚀 AI-Powered Portfolio Builder
+
+
 Welcome to the AI-Powered Portfolio Builder — a smarter way to create personalized, job-specific portfolios that increase your chances of getting hired! 🎯
 
 🔎 Why settle for generic portfolios? Our AI crafts tailored portfolios using company-specific keywords, optimizing your application for Applicant Tracking Systems (ATS) and making you stand out from the crowd.
