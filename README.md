@@ -5,6 +5,9 @@ Welcome to the AI-Powered Portfolio Builder — a smarter way to create personal
 
 🔎 Why settle for generic portfolios? Our AI crafts tailored portfolios using company-specific keywords, optimizing your application for Applicant Tracking Systems (ATS) and making you stand out from the crowd.
 
+
+
+
 ✨ Features
 ✅ AI-Generated Portfolios — Based on your skills, experience, and preferences.
 ✅ Keyword Optimization — ATS-friendly portfolios customized for each company.
@@ -12,6 +15,9 @@ Welcome to the AI-Powered Portfolio Builder — a smarter way to create personal
 ✅ Real-time Updates — Edit and adjust your portfolio as needed.
 ✅ Company-Specific Suggestions — Generate tailored content for different applications.
 ✅ AI-Generated Images — Visualize your ideas with AI-powered image generation.
+
+
+
 
 💡 How It Works
 Describe Your Profile — Enter your details, skills, and experience.
